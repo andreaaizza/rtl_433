@@ -21,7 +21,8 @@
 		DECL(cardin) \
 		DECL(fineoffset_WH2) \
 		DECL(nexus) \
-		DECL(ambient_weather) 
+		DECL(ambient_weather) \
+		DECL(owl)
 
 
 #define BITBUF_COLS             34
